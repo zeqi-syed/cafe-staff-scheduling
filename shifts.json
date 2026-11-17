@@ -1,0 +1,148 @@
+[
+  {
+    "day": "Mon",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Mon",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Tue",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Tue",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Wed",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Wed",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Thu",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Thu",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Fri",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Fri",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Sat",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Sat",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Barista",
+      "Cook",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Sat",
+    "shift": "Evening",
+    "roles": [
+      "Cashier",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Sun",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Supervisor"
+    ]
+  },
+  {
+    "day": "Sun",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Barista",
+      "Cook",
+      "Cleaner"
+    ]
+  },
+  {
+    "day": "Sun",
+    "shift": "Evening",
+    "roles": [
+      "Cashier",
+      "Cook",
+      "Supervisor"
+    ]
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "day": "Mon",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Mon",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Tue",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Tue",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Wed",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Wed",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Thu",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Thu",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Fri",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Fri",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Sat",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Supervisor"
+    ],
+    "duration": 4
+  },
+  {
+    "day": "Sat",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Barista",
+      "Cook",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Sat",
+    "shift": "Evening",
+    "roles": [
+      "Cashier",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  },
+  {
+    "day": "Sun",
+    "shift": "Morning",
+    "roles": [
+      "Barista",
+      "Cashier",
+      "Supervisor"
+    ],
+    "duration": 4
+  },
+  {
+    "day": "Sun",
+    "shift": "Afternoon",
+    "roles": [
+      "Barista",
+      "Barista",
+      "Cook",
+      "Cleaner"
+    ],
+    "duration": 3
+  },
+  {
+    "day": "Sun",
+    "shift": "Evening",
+    "roles": [
+      "Cashier",
+      "Cook",
+      "Supervisor"
+    ],
+    "duration": 5
+  }
+]

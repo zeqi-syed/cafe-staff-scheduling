@@ -1,0 +1,142 @@
+{
+  "Aleksandra": {
+    "max_hours": 28,
+    "availability": [
+      "Mon",
+      "Tue",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Cashier",
+      "Supervisor"
+    ]
+  },
+  "Emilio": {
+    "max_hours": 36,
+    "availability": [
+      "Mon",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Cook",
+      "Cleaner"
+    ]
+  },
+  "Leila": {
+    "max_hours": 24,
+    "availability": [
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  "Hancheng": {
+    "max_hours": 36,
+    "availability": [
+      "Tue",
+      "Wed",
+      "Thu",
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Cashier",
+      "Cook",
+      "Supervisor"
+    ]
+  },
+  "Syed": {
+    "max_hours": 28,
+    "availability": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  "Zijian": {
+    "max_hours": 16,
+    "availability": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Cook",
+      "Cleaner"
+    ]
+  },
+  "Lena": {
+    "max_hours": 20,
+    "availability": [
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Supervisor"
+    ]
+  },
+  "Marco": {
+    "max_hours": 28,
+    "availability": [
+      "Tue",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
+    "skills": [
+      "Cook",
+      "Cashier",
+      "Cleaner"
+    ]
+  },
+  "Clara": {
+    "max_hours": 16,
+    "availability": [
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Cook",
+      "Cleaner"
+    ]
+  },
+  "Laura": {
+    "max_hours": 32,
+    "availability": [
+      "Sat",
+      "Sun"
+    ],
+    "skills": [
+      "Barista",
+      "Cashier",
+      "Cleaner"
+    ]
+  }
+}
